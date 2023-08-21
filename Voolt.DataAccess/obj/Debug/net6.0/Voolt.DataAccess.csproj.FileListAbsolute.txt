@@ -1,0 +1,12 @@
+D:\Voolt\Voolt.DataAccess\bin\Debug\net6.0\Voolt.DataAccess.deps.json
+D:\Voolt\Voolt.DataAccess\bin\Debug\net6.0\Voolt.DataAccess.dll
+D:\Voolt\Voolt.DataAccess\bin\Debug\net6.0\ref\Voolt.DataAccess.dll
+D:\Voolt\Voolt.DataAccess\bin\Debug\net6.0\Voolt.DataAccess.pdb
+D:\Voolt\Voolt.DataAccess\obj\Debug\net6.0\Voolt.DataAccess.csproj.AssemblyReference.cache
+D:\Voolt\Voolt.DataAccess\obj\Debug\net6.0\Voolt.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Voolt\Voolt.DataAccess\obj\Debug\net6.0\Voolt.DataAccess.AssemblyInfoInputs.cache
+D:\Voolt\Voolt.DataAccess\obj\Debug\net6.0\Voolt.DataAccess.AssemblyInfo.cs
+D:\Voolt\Voolt.DataAccess\obj\Debug\net6.0\Voolt.DataAccess.csproj.CoreCompileInputs.cache
+D:\Voolt\Voolt.DataAccess\obj\Debug\net6.0\Voolt.DataAccess.dll
+D:\Voolt\Voolt.DataAccess\obj\Debug\net6.0\ref\Voolt.DataAccess.dll
+D:\Voolt\Voolt.DataAccess\obj\Debug\net6.0\Voolt.DataAccess.pdb

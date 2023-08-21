@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "384cb0bc-af33-49f7-9723-07a18146271c": {
+      "ProjectGuid": "384cb0bc-af33-49f7-9723-07a18146271c",
+      "DisplayName": "Voolt.POC",
+      "ColorIndex": 0
+    },
+    "b3df12d3-6e01-4e06-92ce-3758bef97ab8": {
+      "ProjectGuid": "b3df12d3-6e01-4e06-92ce-3758bef97ab8",
+      "DisplayName": "Voolt.Entity",
+      "ColorIndex": 1
+    },
+    "97aebacf-ca6d-4a93-b5ff-096199656c50": {
+      "ProjectGuid": "97aebacf-ca6d-4a93-b5ff-096199656c50",
+      "DisplayName": "Voolt.BAL",
+      "ColorIndex": 2
+    },
+    "17ca0237-322e-41bc-806f-97fc1cb1d919": {
+      "ProjectGuid": "17ca0237-322e-41bc-806f-97fc1cb1d919",
+      "DisplayName": "Voolt.DAL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

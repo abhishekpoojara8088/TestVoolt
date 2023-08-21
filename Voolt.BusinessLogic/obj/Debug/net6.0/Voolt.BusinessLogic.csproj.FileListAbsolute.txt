@@ -1,0 +1,15 @@
+D:\Voolt\Voolt.BusinessLogic\bin\Debug\net6.0\Voolt.BusinessLogic.deps.json
+D:\Voolt\Voolt.BusinessLogic\bin\Debug\net6.0\Voolt.BusinessLogic.dll
+D:\Voolt\Voolt.BusinessLogic\bin\Debug\net6.0\ref\Voolt.BusinessLogic.dll
+D:\Voolt\Voolt.BusinessLogic\bin\Debug\net6.0\Voolt.BusinessLogic.pdb
+D:\Voolt\Voolt.BusinessLogic\bin\Debug\net6.0\Voolt.DataAccess.dll
+D:\Voolt\Voolt.BusinessLogic\bin\Debug\net6.0\Voolt.DataAccess.pdb
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\Voolt.BusinessLogic.csproj.AssemblyReference.cache
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\Voolt.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\Voolt.BusinessLogic.AssemblyInfoInputs.cache
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\Voolt.BusinessLogic.AssemblyInfo.cs
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\Voolt.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\Voolt.BusinessLogic.csproj.CopyComplete
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\Voolt.BusinessLogic.dll
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\ref\Voolt.BusinessLogic.dll
+D:\Voolt\Voolt.BusinessLogic\obj\Debug\net6.0\Voolt.BusinessLogic.pdb
